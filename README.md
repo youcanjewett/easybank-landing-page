@@ -13,9 +13,8 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS Styles and Breakpoints
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## See the live site [here](https://easybank-landing-page-5wj.pages.dev/)!
